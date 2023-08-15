@@ -1,0 +1,35 @@
+body{
+  background-color: rgba(0, 255, 255, 0.24);
+}
+.titulo
+{
+  font-size: 25px;
+  margin-left: 200px;
+}
+.card {
+  background-color: cadetblue;
+  width: 300px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 15px;
+  padding: 15px;
+  margin-top: 30px;
+  margin-left: 260px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+.card1 {
+  background-color: cadetblue;
+  width: 300px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 15px;
+  padding: 50px;
+  margin-top: 150px;
+  margin-left: 25px;
+  box-shadow: 0 2px 4px rgb(0, 0, 0, 0.1);
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
