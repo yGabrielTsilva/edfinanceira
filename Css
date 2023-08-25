@@ -1,35 +1,85 @@
 body{
-  background-color: rgba(0, 255, 255, 0.24);
+  background-color: white;
 }
 .titulo
 {
   font-size: 25px;
   margin-left: 200px;
 }
+.imagem {
+  margin-top: 50px;
+}
 .card {
-  background-color: cadetblue;
+  background-color: rgba(95, 158, 160, 0.432);
   width: 300px;
   border: 1px solid rgb(0, 0, 0);
   border-radius: 15px;
   padding: 15px;
   margin-top: 30px;
-  margin-left: 260px;
+  margin-left: 220px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   display: inline-block;
   vertical-align: top;
   text-align: center;
 }
 .card1 {
-  background-color: cadetblue;
+  background-color: rgba(95, 158, 160, 0.432);
   width: 300px;
   border: 1px solid rgb(0, 0, 0);
   border-radius: 15px;
   padding: 50px;
-  margin-top: 150px;
-  margin-left: 25px;
+  margin-top: 50px;
+  margin-left: 10px;
+  box-shadow: 0 2px 4px rgb(0, 0, 0, 0.1);
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+.card2 {
+  background-color: rgba(95, 158, 160, 0.432);
+  width: 300px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 15px;
+  padding: 50px;
+  margin-top: 10px;
+  margin-left: 250px;
   box-shadow: 0 2px 4px rgb(0, 0, 0, 0.1);
   display: inline-block;
   vertical-align: top;
   text-align: center;
 }
 
+.card3 {
+  background-color: rgba(95, 158, 160, 0.432);
+  width: 300px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 15px;
+  padding: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
+  box-shadow: 0 2px 4px rgb(0, 0, 0, 0.1);
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
+.icon-card-1{
+
+}
+
+.icon-11{
+  width: 100px;
+  height: 100px;
+  
+}
+
+.icon-card-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Pode ser ajustado conforme necessário */
+}
+
+
+.icone {
+  margin-left: 35px;
+}
